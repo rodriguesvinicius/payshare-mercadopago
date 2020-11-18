@@ -1,0 +1,29 @@
+{
+  "name": "mercadopago2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "knex": "^0.20.15",
+    "mercadopago": "^1.3.2",
+    "pg": "^7.18.2",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriguesvinicius/payment-mercadopago.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriguesvinicius/payment-mercadopago/issues"
+  },
+  "homepage": "https://github.com/rodriguesvinicius/payment-mercadopago#readme"
+}
